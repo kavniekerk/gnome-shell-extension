@@ -25,7 +25,7 @@ const Convenience = Me.imports.convenience;
 
 const appSys = Shell.AppSystem.get_default();
 
-const APPLICATION_ICON_SIZE = 32;
+const APPLICATION_ICON_SIZE = 0; // original value 32
 const HORIZ_FACTOR = 5;
 const MENU_HEIGHT_OFFSET = 132;
 const NAVIGATION_REGION_OVERSHOOT = 50;
